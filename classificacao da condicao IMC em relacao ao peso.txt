@@ -1,0 +1,48 @@
+
+    		/*if ( ((ficha_cliente.IMC_cliente) >= (16)) && ( (ficha_cliente.IMC_cliente) <= (16.9) ) )
+    		{
+    			printf("\nO IMC do cliente %s é: %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+    			printf("Situação: Muito abaixo do peso!\n");
+    			pause_period(2);
+    		}
+	    		else if ( ((ficha_cliente.IMC_cliente) >= (17)) && ( (ficha_cliente.IMC_cliente) <= (18.4) ) )
+	    		{
+	    			printf("\nO IMC do cliente é: %s %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+	    			printf("Situação: Abaixo do peso!\n");
+	    			pause_period(2);	
+	    		}
+	    			else if ( ((ficha_cliente.IMC_cliente) >= (25)) && ( (ficha_cliente.IMC_cliente) <= (29.9) ) )
+	    			{
+    					printf("\nO IMC do cliente %s é: %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+    					printf("Situação: Peso normal!\n");
+    					pause_period(2);
+
+	    			}
+	    				else if ( ( (ficha_cliente.IMC_cliente) >= (30) ) && ((ficha_cliente.IMC_cliente) <= (34.9)) )
+	    				{
+	    	    			printf("\nO IMC do cliente %s é: %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+    						printf("Situação: Acima do peso!\n");
+    						pause_period(2);
+
+	    				}
+	    					else if (ficha_cliente.IMC_cliente > 40 )
+	    					{
+					    		printf("\nO IMC do cliente %s é: %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+				    			printf("Situação: Obesidade Grau I!\n");
+				    			pause_period(2);
+
+	    					}
+	    						else if (ficha_cliente.IMC_cliente >=18.5 && ficha_cliente.IMC_cliente <=14.9 )
+	    						{
+					    			printf("\nO IMC do cliente %s é: %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+    								printf("Situação: Obesidade Grau II!\n");
+    								pause_period(2);
+
+	    						}
+
+		    						else if (ficha_cliente.IMC_cliente > 40)
+		    						{
+		    							printf("\nO IMC do cliente %s é: %f\n",ficha_cliente.nome_cliente,ficha_cliente.IMC_cliente);
+		    							printf("Situação: Obesidade Grau III!\n");
+		    							pause_period(2);
+		    						}*/
